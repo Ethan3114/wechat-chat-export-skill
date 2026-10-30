@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信会话导出"
+  short_description: "从 macOS 微信本地数据库导出指定会话，读取 WAL、解压正文并核验附件"
+  default_prompt: "使用 $wechat-chat-export 导出我指定的微信会话，并核验记录范围和附件状态。"

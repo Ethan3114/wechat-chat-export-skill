@@ -1,0 +1,15 @@
+work/
+outputs/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.db
+*.db-*
+*.kvdb*
+*.dat
+*.silk
+*.log
+*keys*.json
+*secret*
+*.zip
